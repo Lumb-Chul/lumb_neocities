@@ -3,11 +3,11 @@ TODO and implementations
 #### Layout
 1. Header, Footer, Leftsidebar Primary page right bar
 Current setup:
-![Screenshot of current display](Screenshot.png)
+![Screenshot of current display](Resources/Screenshot.png)
 Inspiration:
-![daikonet](daikonet.png)
-![petrapixel](petrapixel.png)
-![incessantpain](incessantpain.png)
+![daikonet](Resources/daikonet.png)
+![petrapixel](Resources/petrapixel.png)
+![incessantpain](Resources/incessantpain.png)
 #### Aesthetic
 1. Nana core of course
 #### Cute widgets
